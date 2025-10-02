@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "id": "electronics",
+      "title": "Electronics",
+      "products": [
+        { "id": "e1", "title": "Smartphone", "price": 25000, "description": "A high-performance smartphone with large display and advanced camera.", "image": "assets/images/electronic/phone.jpg", "quantity": 50 },
+        { "id": "e2", "title": "Laptop", "price": 55000, "description": "Powerful laptop suitable for work, study, and entertainment.", "image": "assets/images/electronic/laptop.jpg", "quantity": 30 },
+        { "id": "e3", "title": "Bluetooth Speaker", "price": 3000, "description": "Portable speaker with deep bass and clear sound.", "image": "assets/images/electronic/bluetooth.jpg", "quantity": 40 },
+        { "id": "e4", "title": "Headphones", "price": 1500, "description": "Comfortable over-ear headphones with excellent sound quality.", "image": "assets/images/electronic/headphone.jpg", "quantity": 60 },
+        { "id": "e5", "title": "Smartwatch", "price": 8000, "description": "Smartwatch to track fitness, notifications, and health data.", "image": "assets/images/electronic/watch.jpg", "quantity": 25 },
+        { "id": "e6", "title": "Camera", "price": 45000, "description": "DSLR camera with high-resolution sensor for sharp photos.", "image": "assets/images/electronic/camera.jpg", "quantity": 15 },
+        { "id": "e7", "title": "Power Bank", "price": 1200, "description": "Portable 10000mAh charger for devices on the go.", "image": "assets/images/electronic/powerbank.jpg", "quantity": 70 },
+        { "id": "e8", "title": "Monitor", "price": 12000, "description": "24-inch Full HD monitor for work and gaming.", "image": "assets/images/electronic/monitor.jpg", "quantity": 22 },
+        { "id": "e9", "title": "Keyboard", "price": 900, "description": "Mechanical keyboard with comfortable keys and RGB lighting.", "image": "assets/images/electronic/keyboard.jpg", "quantity": 35 },
+        { "id": "e10", "title": "Mouse", "price": 600, "description": "Wireless ergonomic mouse with smooth tracking.", "image": "assets/images/electronic/mouse.jpg", "quantity": 50 }
+      ]
+    },
+    {
+      "id": "books",
+      "title": "Books",
+      "products": [
+        { "id": "b1", "title": "Flutter Basics", "price": 500, "description": "Beginner guide to Flutter development.", "image": "assets/images/books/flutter_basics.jpg", "quantity": 100 },
+        { "id": "b2", "title": "Dart in Action", "price": 650, "description": "Comprehensive guide to mastering Dart programming.", "image": "assets/images/books/dart_in_action.jpg", "quantity": 70 },
+        { "id": "b3", "title": "Clean Code", "price": 700, "description": "Learn writing maintainable and efficient code.", "image": "assets/images/books/clean_code.jpg", "quantity": 40 },
+        { "id": "b4", "title": "Design Patterns", "price": 800, "description": "Understanding reusable software design techniques.", "image": "assets/images/books/desing_pattern.jpg", "quantity": 35 },
+        { "id": "b5", "title": "Effective Java", "price": 900, "description": "Best practices and techniques for Java developers.", "image": "assets/images/books/effective_java.jpg", "quantity": 60 },
+        { "id": "b6", "title": "The Pragmatic Programmer", "price": 750, "description": "Guidance for professional software development.", "image": "assets/images/books/the_programatic.jpg", "quantity": 50 },
+        { "id": "b7", "title": "AI Basics", "price": 550, "description": "Introduction to artificial intelligence concepts.", "image": "assets/images/books/flutter_basics.jpg", "quantity": 45 },
+        { "id": "b8", "title": "Machine Learning", "price": 1200, "description": "Essential guide to machine learning algorithms.", "image": "assets/images/books/machine_learning.jpg", "quantity": 30 },
+        { "id": "b9", "title": "Deep Learning", "price": 1500, "description": "Learn about neural networks and deep learning.", "image": "assets/images/books/deep_learning.jpg", "quantity": 25 },
+        { "id": "b10", "title": "Data Science", "price": 1000, "description": "Comprehensive guide to data analysis and visualization.", "image": "assets/images/books/data_science.jpg", "quantity": 20 }
+      ]
+    },
+    {
+      "id": "clothing",
+      "title": "Clothing",
+      "products": [
+        { "id": "c1", "title": "T-Shirt", "price": 400, "description": "Casual cotton t-shirt, comfortable and stylish.", "image": "assets/images/cloth/t-shirt.jpg", "quantity": 80 },
+        { "id": "c2", "title": "Jeans", "price": 1200, "description": "Slim fit blue jeans for everyday wear.", "image": "assets/images/cloth/jean.jpg", "quantity": 60 },
+        { "id": "c3", "title": "Jacket", "price": 2500, "description": "Warm winter jacket for outdoor activities.", "image": "assets/images/cloth/jacket.jpg", "quantity": 30 },
+        { "id": "c4", "title": "Shirt", "price": 800, "description": "Formal cotton shirt suitable for work.", "image": "assets/images/cloth/shirt.jpg", "quantity": 50 },
+        { "id": "c5", "title": "Dress", "price": 1800, "description": "Elegant party dress for special occasions.", "image": "assets/images/cloth/dress.jpg", "quantity": 40 },
+        { "id": "c6", "title": "Sweater", "price": 1500, "description": "Warm woolen sweater for winter season.", "image": "assets/images/cloth/sweater.jpg", "quantity": 35 },
+        { "id": "c7", "title": "Shorts", "price": 500, "description": "Casual shorts for summer comfort.", "image": "assets/images/cloth/shorts.jpg", "quantity": 70 },
+        { "id": "c8", "title": "Skirt", "price": 900, "description": "Trendy denim skirt for everyday fashion.", "image": "assets/images/cloth/skirt.jpg", "quantity": 45 },
+        { "id": "c9", "title": "Suit", "price": 4000, "description": "Formal business suit for professional look.", "image": "assets/images/cloth/suit.jpg", "quantity": 20 },
+        { "id": "c10", "title": "Socks", "price": 150, "description": "Pack of 3 comfortable cotton socks.", "image": "assets/images/cloth/shocks.jpg", "quantity": 90 }
+      ]
+    },
+    {
+      "id": "home",
+      "title": "Home",
+      "products": [
+        { "id": "h1", "title": "Chair", "price": 1200, "description": "Sturdy wooden dining chair.", "image": "assets/images/home/chair.jpg", "quantity": 40 },
+        { "id": "h2", "title": "Table", "price": 3500, "description": "4-seater dining table made of quality wood.", "image": "assets/images/home/table.jpg", "quantity": 25 },
+        { "id": "h3", "title": "Sofa", "price": 12000, "description": "3-seater fabric sofa for living room.", "image": "assets/images/home/sofa.jpg", "quantity": 15 },
+        { "id": "h4", "title": "Bed", "price": 20000, "description": "King size wooden bed for comfortable sleep.", "image": "assets/images/home/bed.jpg", "quantity": 10 },
+        { "id": "h5", "title": "Cupboard", "price": 8000, "description": "2-door wooden cupboard for storage.", "image": "assets/images/home/cupboard.jpg", "quantity": 18 },
+        { "id": "h6", "title": "Lamp", "price": 1500, "description": "Decorative table lamp to brighten your room.", "image": "assets/images/home/lamp.jpg", "quantity": 60 },
+        { "id": "h7", "title": "Curtains", "price": 2000, "description": "Set of 2 curtains for windows.", "image": "assets/images/home/curtains.jpg", "quantity": 50 },
+        { "id": "h8", "title": "Carpet", "price": 4500, "description": "Floor carpet for living room comfort.", "image": "assets/images/home/carpet.jpg", "quantity": 22 },
+        { "id": "h9", "title": "Clock", "price": 800, "description": "Modern wall clock for home decoration.", "image": "assets/images/home/clock.jpg", "quantity": 55 },
+        { "id": "h10", "title": "Mirror", "price": 1000, "description": "Full-length dressing mirror for daily use.", "image": "assets/images/home/mirror.jpg", "quantity": 35 }
+      ]
+    }
+  ]
+}
